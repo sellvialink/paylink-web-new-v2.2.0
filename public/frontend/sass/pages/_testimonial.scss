@@ -1,0 +1,118 @@
+/*-------------------------------------------------
+    [ ## Testimonial ]
+*/
+.testimonial-section{
+    overflow: hidden;
+}
+.testimonial-wrapper{
+    margin: -70px 0;
+    margin-bottom: 20px;
+    @media only screen and (max-width: 991px) {
+        margin-top: 20px;
+        margin-bottom: 0;
+    }
+}
+.testimonial-slider{
+    overflow: hidden;
+    padding: 70px 0;
+    .swiper-slide-active{
+        .testimonial-thumb{
+            .testimonial-inner-thumb{
+                animation: scroll-ver 2s;
+            }
+        }
+        .testimonial-content{
+            animation: scroll-ver 2s;
+        }
+    }
+    .swiper-pagination{
+        margin: -5px;
+        margin-top: -50px;
+        padding: 0;
+        background-color: transparent;
+        display: block;
+        text-align: left;
+        @media only screen and (max-width: 1199px) {
+            margin-top: -30px;
+        }
+        @media only screen and (max-width: 991px) {
+            margin-top: 40px;
+        }
+        .swiper-pagination-bullet{
+            width: 25px;
+            height: 6px;
+            margin: 5px;
+        }
+        .swiper-pagination-bullet-active{
+            width: 40px;
+        }
+    }
+}
+.testimonial-thumb{
+    position: relative;
+    height: 378px;
+    .testimonial-inner-thumb{
+        position: absolute;
+        left: 12%;
+        bottom: 20px;
+        height: 429px;
+        @media only screen and (max-width: 991px) {
+            left: 9%;
+        }
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: top;
+        }
+    }
+}
+.testimonial-content{
+    .testimonial-user-wrapper{
+        position: relative;
+        margin-bottom: 20px;
+        display: flex;
+        @media only screen and (max-width: 420px) {
+            display: block;
+        }
+        .testimonial-quote-wrapper{
+            position: absolute;
+            top: -10px;
+            left: -5px;
+            svg{
+                width: 40px;
+                height: 40px;
+                path{
+                    fill: $base--color;
+                }
+            }
+        }
+        .title{
+            margin-bottom: 0;
+            padding-left: 40px;
+        }
+        .sub-title{
+            font-weight: 500;
+            padding-left: 10px;
+            @media only screen and (max-width: 420px) {
+                padding-left: 0;
+                padding-top: 10px;
+            }
+        }
+        .ratings{
+            padding-left: 20px;
+            @media only screen and (max-width: 420px) {
+                padding-left: 0;
+                padding-top: 10px;
+            }
+            i{
+                font-size: 18px;
+                color: #FFA800;
+            }
+        }
+    }
+    p{
+        font-weight: 500;
+        margin-top: 15px;
+    }
+}

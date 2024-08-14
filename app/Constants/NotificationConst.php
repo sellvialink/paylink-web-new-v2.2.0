@@ -1,0 +1,17 @@
+<?php
+
+namespace App\Constants;
+
+class NotificationConst {
+    const SIDE_NAV = "SIDE_NAV";
+    const LOGIN = "LOGGED_IN";
+    const BALANCE_UPDATE = "BALANCE_UPDATE";
+    const BALANCE_ADDED = "BALANCE_ADDED";
+    const TRADE_CREATED = "TRADE_CREATED";
+    const COUNTER_OFFER = "COUNTER_OFFER";
+    const OFFER = "OFFER";
+    const TRANSACTION_CREATED = "TRANSACTION_CREATED";
+    const EXCROW_TRANSACTION_ADDED = "EXCROW_TRANSACTION_ADDED";
+    const MARKETPLACE_TRANSACTION_ADDED = "MARKETPLACE_TRANSACTION_ADDED";
+    const MONEY_OUT = "MONEY_OUT";
+}

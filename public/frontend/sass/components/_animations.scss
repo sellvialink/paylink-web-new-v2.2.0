@@ -1,0 +1,255 @@
+@keyframes scroll-down {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes scroll-ver {
+  0% {
+    transform: translate3d(20%, 0, 0);
+  }
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes scale {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(.95);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+@-webkit-keyframes scale-up-one {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  40% {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+@keyframes scale-up-one {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  40% {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+@-webkit-keyframes ripple {
+  0%,35% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+    opacity: 1;
+  }
+
+  50% {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    opacity: .8;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: scale(2);
+    transform: scale(2);
+  }
+}
+@keyframes ripple {
+  0%,35% {
+    -webkit-transform: scale(0);
+    transform: scale(0);
+    opacity: 1;
+  }
+
+  50% {
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+    opacity: .8;
+  }
+
+  100% {
+    opacity: 0;
+    -webkit-transform: scale(1.8);
+    transform: scale(1.8);
+  }
+}
+
+@keyframes wave {
+  0% {
+    transform: rotate(1deg);
+  }
+  100% {
+    transform: rotate(-1deg);
+  }
+}
+
+@keyframes rotate-center {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@-webkit-keyframes shine {
+  100% {
+    left: 125%;
+  }
+}
+
+@keyframes shine {
+  100% {
+    left: 125%;
+  }
+}
+
+@-webkit-keyframes gel-map-animationSignal {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate(-50%, -50%) scale(0.3);
+            transform: translate(-50%, -50%) scale(0.3);
+  }
+  1% {
+    -webkit-transform: translate(-50%, -50%) scale(0.32);
+            transform: translate(-50%, -50%) scale(0.32);
+    opacity: 0.1;
+  }
+  20% {
+    opacity: 0.5;
+    -webkit-transform: translate(-50%, -50%) scale(0 0.45);
+            transform: translate(-50%, -50%) scale(0 0.45);
+  }
+  60% {
+    -webkit-transform: translate(-50%, -50%) scale(0.75);
+            transform: translate(-50%, -50%) scale(0.75);
+    opacity: 0.35;
+  }
+}
+
+@keyframes gel-map-animationSignal {
+  0% {
+    opacity: 0;
+    -webkit-transform: translate(-50%, -50%) scale(0.3);
+            transform: translate(-50%, -50%) scale(0.3);
+  }
+  1% {
+    -webkit-transform: translate(-50%, -50%) scale(0.32);
+            transform: translate(-50%, -50%) scale(0.32);
+    opacity: 0.1;
+  }
+  20% {
+    opacity: 0.5;
+    -webkit-transform: translate(-50%, -50%) scale(0 0.45);
+            transform: translate(-50%, -50%) scale(0 0.45);
+  }
+  60% {
+    -webkit-transform: translate(-50%, -50%) scale(0.75);
+            transform: translate(-50%, -50%) scale(0.75);
+    opacity: 0.35;
+  }
+}
+@keyframes zindexAnimation {
+  25% {
+    z-index: 1;
+  }
+  75% {
+    z-index: -1;
+  }
+}
+@keyframes translateAnimation {
+  0% {
+    transform: translateX(0) translateY(0);
+  }
+  100% {
+    transform: translateX(-400px) translateY(80px);
+  }
+}
+@keyframes translateAnimationTwo {
+  0% {
+    transform: translateX(0) translateY(0);
+  }
+  100% {
+    transform: translateX(320px) translateY(-370px);
+  }
+}
+@keyframes translateAnimationThree {
+  0% {
+    transform: translateX(0) translateY(0);
+  }
+  100% {
+    transform: translateX(400px) translateY(150px);
+  }
+}
+@keyframes translateAnimationFour {
+  0% {
+    transform: translateX(0) translateY(0);
+  }
+  100% {
+    transform: translateX(-400px) translateY(90px);
+  }
+}
+@keyframes translateAnimationFive {
+  0% {
+    transform: translateX(0) translateY(0);
+  }
+  100% {
+    transform: translateX(400px) translateY(150px);
+  }
+}
+@keyframes scaleAnimation {
+  100% {
+    transform: scale(1);
+  }
+}

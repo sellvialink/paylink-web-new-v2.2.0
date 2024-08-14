@@ -1,0 +1,719 @@
+Key,en,es
+Dashboard,Dashboard,Panel
+Default,Default,Por defecto
+Setup Currency,Setup Currency,Moneda de configuración
+Campaigns,Campaigns,Campañas
+Language created successfully!,Language created successfully!,¡Lenguaje creado con éxito!
+Transactions & Log,Transactions & Log,Transacciones y registro
+Add Money Logs,Add Money Logs,Agregar registros de dinero
+Pending Logs,Pending Logs,Registros pendientes
+Completed Logs,Completed Logs,Registros completados
+Canceled Logs,Canceled Logs,Registros cancelados
+All Logs,All Logs,Todos los registros
+User Care,User Care,Cuidado de los usuarios
+Active Users,Active Users,Usuarios activos
+Email Unverified,Email Unverified,Correo electrónico no verificado
+All Users,All Users,Todos los usuarios
+Email To Users,Email To Users,Correo electrónico a los usuarios
+Banned Users,Banned Users,Usuarios prohibidos
+Admin Care,Admin Care,Atención administrativa
+All Admin,All Admin,Todos los administradores
+Admin Role,Admin Role,Rol de administrador
+Role Permission,Role Permission,Permiso de rol
+Email To Admin,Email To Admin,Correo electrónico al administrador
+Subscriber,Subscriber,Abonado
+Contact Messages,Contact Messages,Mensajes de contacto
+Settings,Settings,Ajustes
+Web Settings,Web Settings,Configuración web
+Basic Settings,Basic Settings,Ajustes básicos
+Image Assets,Image Assets,Activos de imagen
+Setup SEO,Setup SEO,Configuración de SEO
+App Settings,App Settings,Ajustes de Aplicacion
+Splash Screen,Splash Screen,Pantalla de bienvenida
+Onboard Screen,Onboard Screen,Pantalla a bordo
+App URLs,App URLs,URL de aplicaciones
+Languages, Languages, Lenguas
+Verification Center,Verification Center,Centro de verificación
+Setup Email,Setup Email,Correo electrónico de configuración
+Email Method,Email Method,Método de correo electrónico
+Setup Web Content,Setup Web Content,Configurar contenido web
+Setup Section,Setup Section,Sección de configuración
+Home Banner,Home Banner,Estandarte
+About Section,About Section,Acerca de la sección
+Download App,Download App,Descargar aplicación
+Testimonial Section,Testimonial Section,Sección de testimonios
+Footer Section,Footer Section,Sección de pies
+Breadcrumb Section,Breadcrumb Section,Sección de pan de pan
+Gallery Section,Gallery Section,Sección de la galería
+Contact Section,Contact Section,Sección de contacto
+Category Type,Category Type,Tipo de categoría
+Faq Section,Faq Section,Sección de preguntas frecuentes
+Login Section,Login Section,Sección de inicio de sesión
+Register Section,Register Section,Sección de registro
+Setup Pages,Setup Pages,Configuración de páginas
+Useful LInks,Useful LInks,Enlaces útiles
+Extensions,Extensions,Extensiones
+Payment Methods,Payment Methods,Métodos de pago
+Add Money,Add Money,Agregar dinero
+Automatic,Automatic,Automático
+Manual,Manual,Manual
+Bonus,Bonus,Prima
+GDPR Cookie,GDPR Cookie,Galleta GDPR
+Server Info,Server Info,Información del servidor
+Clear Cache,Clear Cache,Limpiar cache
+Home,Home,Hogar
+About,About,Acerca de
+Contact,Contact,Contacto
+Join the event,Join the event,Únete al evento
+About Foundation,About Foundation,Sobre la base
+Our Gallery,Our Gallery,Nuestra galería
+Get In Touch,Get In Touch,Ponerse en contacto
+Follow Us,Follow Us,Síganos
+Support Us,Support Us,Apoyanos
+Newsletter,Newsletter,Boletin informativo
+Subscribe,Subscribe,Suscribir
+Decline,Decline,Rechazar
+Allow,Allow,Permitir
+Donate Now,Donate Now,Done ahora
+To Go,To Go,Ir
+Life,Life,Vida
+Recent Posts,Recent Posts,Mensajes recientes
+Send Message,Send Message,Enviar mensaje
+Our Location,Our Location,nuestra ubicación
+Call us on,Call us on,Llámenos
+Email us directly,Email us directly,Envíenos un correo electrónico directamente
+Forgot Password,Forgot Password,Has olvidado tu contraseña
+Login Now,Login Now,Inicia sesión ahora
+Or,Or,O
+Register Now,Register Now,Regístrate ahora
+Already Have An Account,Already Have An Account,Ya tienes una cuenta
+Send Code,Send Code,Enviar código
+Password Forgot,Enter your account email or username to verify,Ingrese el correo electrónico o el nombre de usuario de su cuenta para verificar
+Enter your account email or username to verify,,#VALUE!
+Password Reset,Password Reset,Restablecimiento de contraseña
+Reset your password,Reset your password,Restablecer su contraseña
+Reset,Reset,Reiniciar
+OTP Verification,OTP Verification,Verificación OTP
+Please check your email address to get the OTP (One time password),Please check your email address to get the OTP (One time password),Consulte su dirección de correo electrónico para obtener el OTP (contraseña única)
+Verify,Verify,Verificar
+KYC Verification,KYC Verification,Verificación de KYC
+Please submit your KYC information with valid data.,Please submit your KYC information with valid data.,Envíe su información de KYC con datos válidos.
+Account Authorization,Account Authorization,Autorización de cuenta
+Need to verify your account. Please check your mail inbox to get the authorization code,Need to verify your account. Please check your mail inbox to get the authorization code,Necesita verificar su cuenta. Consulte su bandeja de entrada de correo para obtener el código de autorización
+You can resend the code after,You can resend the code after,Puede reenviar el código después
+Authorize,Authorize,Autorizar
+Current Balance,Current Balance,Saldo actual
+View all,View all,Ver todo
+Add,Add,Agregar
+Last Donate Amount,Last Donate Amount,Última cantidad de donación
+Total Event,Total Event,Evento total
+Donate History Chart,Donate History Chart,Donar la tabla de historia
+Campaign Title,Campaign Title,Título de campaña
+Campaign Goal,Campaign Goal,Meta de campaña
+Donation Amount,Donation Amount,Monto de donación
+Status,Status,Estado
+Donation Date,Donation Date,Fecha de donación
+Exchange Rate,Exchange Rate,Tipo de cambio
+Summery,Summery,Veraniego
+Entered Amount,Entered Amount,Cantidad ingresada
+Total Fees & Charges,Total Fees & Charges,Tarifas y cargos totales
+Will Get,Will Get,Obtendrá
+Total Payable Amount,Total Payable Amount,Monto total por pagar
+Add Money Log,Add Money Log,Agregar registro de dinero
+Add Balance via,Add Balance via,Agregar balance a través de
+Time & Date,Time & Date,Hora Fecha
+Transaction ID,Transaction ID,ID de transacción
+Fees & Charge,Fees & Charge,Tarifas y cargo
+Total Amount,Total Amount,Cantidad total
+Change Password,Change Password,Cambiar la contraseña
+Profile Settings,Profile Settings,Configuración de perfil
+Logout,Logout,Cerrar sesión
+User Profile,User Profile,Perfil del usuario
+Update,Update,Actualizar
+Current Password,Current Password,Contraseña actual
+New Password,New Password,Nueva contraseña
+Confirm Password,Confirm Password,confirmar Contraseña
+Change,Change,Cambiar
+Add Money Balance,Add Money Balance,Agregar saldo de dinero
+All Time Donation,All Time Donation,Donación de todos los tiempos
+Total Users,Total Users,Usuarios totales
+Active,Active,Activo
+Unverified,Unverified,Inconfirmado
+This Month,This Month,Este mes
+Last Month,Last Month,El mes pasado
+Pending Add Money,Pending Add Money,Pendiente agregar dinero
+Pending Donation,Pending Donation,Donación pendiente
+Today,Today,Hoy
+Monthly Add Money Chart,Monthly Add Money Chart,Gráfico mensual de dinero Agregar
+View,View,Vista
+Monthly Donation Chart,Monthly Donation Chart,Gráfico de donación mensual
+Campaign And Event Analytics,Campaign And Event Analytics,Análisis de campaña y eventos
+View Campaign,View Campaign,Ver campaña
+View Event,View Event,Ver evento
+User Analytics,User Analytics,Análisis de usuarios
+View User,View User,Ver usuario
+Donation Growth,Donation Growth,Crecimiento de la donación
+View Donation,View Donation,Ver donación
+Latest Donations,Latest Donations,Últimas donaciones
+Total Trade Amount,Total Trade Amount,Monto comercial total
+Total Marketplace Amount,Total Marketplace Amount,Cantidad total del mercado
+TRX,TRX,TRX
+Email,Email,Correo electrónico
+Amount,Amount,Cantidad
+Method,Method,Método
+Time,Time,Tiempo
+Welcome To,Welcome To,Bienvenido a
+Admin Panel,Admin Panel,Panel de administrador
+Name | Code',Name | Code,Nombre | Código
+Symbol,Symbol,Símbolo
+Type,Type,Tipo
+Campaign Section,Campaign Section,Sección de campaña
+Add Campaign,Add Campaign,Agregar campaña
+Title,Title,Título
+Edit Campaign,Edit Campaign,Editar campaña
+Add Event,Add Event,Añadir evento
+Category,Category,Categoría
+Event Edit,Event Edit,Edición de eventos
+Complete Logs,Complete Logs,Registros completos
+Username,Username,Nombre de usuario
+Email Verified Status,Email Verified Status,Estado verificado por correo electrónico
+Action,Action,Acción
+Email Unverified Users,Email Unverified Users,Envíe un correo electrónico a usuarios no verificados
+Full Name,Full Name,Nombre completo
+Add Admin,Add Admin,Agregar administrador
+Edit Admin,Edit Admin,Editar administrador
+All Subscriber,All Subscriber,Todos suscriptores
+Email To All,Email To All,Correo electrónico a todos
+Date,Date,Fecha
+Send Email,Send Email,Enviar correo electrónico
+Name,Name,Nombre
+Phone,Phone,Teléfono
+No data found!,No data found!,¡Datos no encontrados!
+Message,Message,Mensaje
+Sub Title,Sub Title,Subtítulo
+Language Manager,Language Manager,Administrador de idiomas
+Code,Code,Código
+Add New,Add New,Agregar nuevo
+Import,Import,Importar
+Add Languag,Add Languag,Agregar languma
+Edit Language,Edit Language,Editar lenguaje
+Import Language,Import Language,Lenguaje de importación
+Default Template,Default Template,Plantilla predeterminada
+Home Banner Section,Home Banner Section,Sección de banner de inicio
+Download App Section,Download App Section,Descargar la sección de aplicaciones
+Top Partner Section,Top Partner Section,Sección de socio superior
+app Name,Klic2Help,Klic2help
+on Board Title,We help the kids to grow up in the right way,Ayudamos a los niños a crecer de la manera correcta
+on Board Des,The tone and elucidates the of system the universal village pink like so to her a try eye. of notice his a associates.,El tono y aclara el sistema de la aldea universal rosa como para ella un ojo de prueba. de aviso su A Associates.
+get Started,Get Started,Empezar
+lets Start,"Let's start with signing up. If you already have an account, sign in now.","Comencemos por registrarnos. Si ya tiene una cuenta, inicie sesión ahora."
+sign In,Sign In,Iniciar sesión
+paypal Payment,Paypal Payment,Pago PayPal
+flutterwave,Flutterwave,Flutterwave
+sing Up,Sing Up,Cantar más fuerte
+no Events YEt,NO Events Yet,No hay eventos todavía
+no Review Yet,NO Review Yet,No hay revisión todavía
+stripe Payment Screen,Stripe Payment Screen,Pantalla de pago de rayas
+please Fill Out The Field,Please fill out the field,Por favor complete el campo
+login Information,Login Information,Información Entrar
+please Input Your Username,Please input your username and password and login to your account to get access to your dashboard.,Ingrese su nombre de usuario y contraseña e inicie sesión en su cuenta para obtener acceso a su tablero.
+user Name,Username,Nombre de usuario
+password,Password,Contraseña
+dont Have An Account,If you don't have an account then create a new account here.,"Si no tiene una cuenta, cree una nueva cuenta aquí."
+forgot Your Password,Forgot your password?,¿Olvidaste tu contraseña?
+Enter Your Email,Enter your email to reset your password,Ingrese su correo electrónico para restablecer su contraseña
+enter Email,Enter Email,Ingrese correo electrónico
+submit,Submit,Entregar
+change Language,Change Language,Cambiar idioma
+submit Now,Submit Now,Aplique ahora
+total Donation,Total Donation Amount,Monto de donación total
+all Time Raised,All Time Raised Amount,Monto elevado de todo el tiempo
+latest History,Latest History,Última historia
+klic2help Wallet,Klic2Help Wallet,Billetera klic2help
+preview Screen,Preview Screen,Pantalla previa
+total fee,Total Fees & Charges,Tarifas y cargos totales
+confirm,Confirm,Confirmar
+your Money Has Been Successfully,Your money has been add successfully!,¡Tu dinero se ha agregado con éxito!
+cancel,Cancel,Cancelar
+no History Yet,No History Yet,No hay historia todavía
+verification Code,Verification Code,Código de verificación
+oTP Verification SubTitle,"Enter the verification code which one we send you in your email, to reset your password.",Ingrese el código de verificación que le enviamos a su correo electrónico para restablecer su contraseña.
+resend Code,Resend Code,Reenviar codigo
+reset Password,Reset Password,Restablecer la contraseña
+congratulations,Congratulations!!,¡¡Felicidades!!
+password Rest Successfully,Your password has been reset successfully!,¡Su contraseña se ha restablecido correctamente!
+account Verified Successfully,Your account has been verified successfully,Su cuenta ha sido verificada con éxito
+okay,Okay,Bueno
+sign Up,Sign Up,Inscribirse
+sign Up Now,Sign Up Now,Regístrate ahora
+register Information,Registration Information,Información de Registro
+input Your Details,Please input your details and register to your account to get access to your dashboard.,Ingrese sus datos y regístrese en su cuenta para obtener acceso a su tablero.
+first Name,First Name,Nombre de pila
+last Name,Last Name,Apellido
+agree,I have read agreed with the,He leído acordado con el
+privacy,Privacy Policy& Warning,Política de privacidad y advertencia
+and,&,Y
+email Verification,Email Verification,verificacion de email
+email Verification SubTitle,"Enter the verification code which one we send you in your email, to verified your account.",Ingrese el código de verificación que le enviamos a su correo electrónico para verificar su cuenta.
+sign Out,Sign Out,Desconectar
+give Poor In India,You Can Give Poor In India... Clean Water & Food,Puedes dar a los pobres en la India ... Agua limpia y comida
+homeless People In Africa,Homeless People In Africa,Personas sin hogar en África
+what People Say,What People Say,Lo que dice la gente
+rasalina Willams,RASALINA WILLAMS,Rasalina Willams
+people Say,"I appreciate your amazing services and professional staff for all your hard work and creative thinking! It was fub, and I hope to work with you again soon.","¡Agradezco sus increíbles servicios y personal profesional por todo su arduo trabajo y pensamiento creativo! Fue Fub, y espero volver a trabajar contigo pronto."
+campaign Details,Campaign Details,Detalles de la campaña
+lorem,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctus \n\nWe have covered many special events such as fireworks, fairs, parades, races, walks, awards ceremonies, fashion shows, sporting events, and even a memorial service.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctus. Suspendisse consectetur tristique tortor","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, ultrices de vitae erat elit eu lacus. Vestibulum no JustO Consectetur, Cursus ante, Tincidunt Sapien. Nulla quis diam sit amet turpis interdum acumsan quis necim. Vivamus faucibus ex sed nibh eggnass Elementum. Mauris et Bibendum DUI. Consecuente auean Pulvinar Luctus \ n \ nwe ha cubierto muchos eventos especiales como fuegos artificiales, ferias, desfiles, carreras, caminatas, ceremonias de premios, desfiles de moda, eventos deportivos e incluso un servicio conmemorativo. adipiscing elit. Curabitur vestibulum phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, ultrices de vitae erat elit eu lacus. Vestibulum no JustO Consectetur, Cursus ante, Tincidunt Sapien. Nulla quis diam sit amet turpis interdum acumsan quis necim. Vivamus faucibus ex sed nibh eggnass Elementum. Mauris et Bibendum DUI. Aenean consecuente Pulvinar Luctus. Suspendisse Consectetur Tristique Tortor"
+campaign Detail,"We have covered many special events such as fireworks, fairs, parades, races, walks, awards ceremonies, fashion shows, sporting events, and even a memorial service.","Hemos cubierto muchos eventos especiales, como fuegos artificiales, ferias, desfiles, carreras, caminatas, ceremonias de premios, desfiles de moda, eventos deportivos e incluso un servicio conmemorativo."
+our Challenge And Goal,Our Challenge & Goal,Nuestro desafío y objetivo
+our Challenge And Goal Details,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctusWe have covered many special events such as fireworks, fairs, parades, races, walks, awards ceremonies, fashion shows, sporting events, and even a memorial service.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate vestibulum Phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, vitae ultricies erat elit eu lacus. Vestibulum non justo consectetur, cursus ante, tincidunt sapien. Nulla quis diam sit amet turpis interdum accumsan quis nec enim. Vivamus faucibus ex sed nibh egestas elementum. Mauris et bibendum dui. Aenean consequat pulvinar luctus. Suspendisse consectetur tristique tortor","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, ultrices de vitae erat elit eu lacus. Vestibulum no JustO Consectetur, Cursus ante, Tincidunt Sapien. Nulla quis diam sit amet turpis interdum acumsan quis necim. Vivamus faucibus ex sed nibh eggnass Elementum. Mauris et Bibendum DUI. El consecuencia de Aenean Pulvinar Luctuswe ha cubierto muchos eventos especiales, como fuegos artificiales, ferias, desfiles, carreras, caminatas, ceremonias de premios, desfiles de moda, eventos deportivos e incluso un servicio conmemorativo. Glorem Ipsum Dolor Sit Amet, consectivo adipiscing Elit. Curabitur vestibulum phasellus rhoncus, dolor eget viverra pretium, dolor tellus aliquet nunc, ultrices de vitae erat elit eu lacus. Vestibulum no JustO Consectetur, Cursus ante, Tincidunt Sapien. Nulla quis diam sit amet turpis interdum acumsan quis necim. Vivamus faucibus ex sed nibh eggnass Elementum. Mauris et Bibendum DUI. Aenean consecuente Pulvinar Luctus. Suspendisse Consectetur Tristique Tortor"
+campaign Description,Campaign Description,Descripción de la campaña
+select Amount,Select Amount,Cantidad de selección
+enter Amount,Enter Amount,Ingresar la cantidad
+optional,(Optional),(Opcional)
+other Amount,Other amount...,Otra cantidad...
+monthly Donate,Monthly Donate,Donación mensual
+select Gateway,Select Gateway,Seleccionar puerta de enlace
+paypal,Paypal,Paypal
+master Card,Visa / MasterCard,Visa Mastercard
+email Address,Email Address,Dirección de correo electrónico
+card Number,Card Number,Número de tarjeta
+enter Card Number,Enter card number,Ingrese el número de tarjeta
+expiry Date,Expiry Date,Fecha de caducidad
+cvc,CVC/CVV,CVC/CVV
+enter,Enter,Ingresar
+date Formate,MM/YYYY,Mm/yyyy
+users,Crish Ronaldo,Crish ronaldo
+user Gmail,crisronaldo@gmail.com,crisronaldo@gmail.com
+privacy Policy,Privacy Policy,política de privacidad
+terms Off Use,"Terms of Use,","Condiciones de uso,"
+donate History,Donate History,Donar historia
+events Details,Event Details,Detalles del evento
+profile,Profile,Perfil
+edit Profile,Edit Profile,Editar perfil
+collect Donation,Collect Donation For Sudan's School & Hospital,Recolecte la donación para la escuela y el hospital de Sudán
+we Help,Please input your details and register to your account to get access to your dashboard.,Ingrese sus datos y regístrese en su cuenta para obtener acceso a su tablero.
+help Poor People,"Help Poor People, Give Food & Caring African Child","Ayudar a las personas pobres, dar comida y un niño africano cariñoso"
+charity,Charity,Caridad
+donation,Donation,Donación
+medical Aid Kit,Medical & Aid Kit,Kit médico y de ayuda
+food And Water,Food and Water,Comida y agua
+help Homeless People,Help Homeless People,Ayuda a las personas sin hogar
+education,Education,Educación
+health,Health,Salud
+variations,"There are many variations of passages of Lorem Ipsum, but the majority have suffered alteration,or randomised word.but the majority have suffered alteration,or randomised word.but the majority have suffered alteration,or randomised word","Hay muchas variaciones de los pasajes de Lorem ipsum, pero la mayoría ha sufrido alteración o palabra aleatoria. Pero la mayoría ha sufrido alteración, o una palabra aleatoria. Pero la mayoría ha sufrido alteración, o palabra aleatoria"
+students Take,Students take the initiative to help children,Los estudiantes toman la iniciativa para ayudar a los niños
+food Crisis,What you need to know about the food crisis,Lo que necesitas saber sobre la crisis alimentaria
+the Right Guideline,The right guideline to donate for homeless people,La guía correcta para donar para personas sin hogar
+thanks For Donate,Thanks for Donate us. We are really appreciate your Donation.,Gracias por donarnos. Realmente apreciamos su donación.
+About Us,About Us,Sobre nosotros
+old Password,Old Password,Contraseña anterior
+enter Old Password,Enter Old Password,Ingrese la contraseña antigua
+enter New Password,Enter New Password,Ingrese nueva clave
+enter Confirm Password,Enter Confirm Password,Ingrese Confirmar contraseña
+save,Save,Ahorrar
+card Holder Name,Card Holder Name,Nombre del titular de la tarjeta
+pay Now,Pay Now,Pagar ahora
+whay People Say,What People Say,Lo que dice la gente
+view More,View More,Ver más
+continue As A Guest,Continue as a Guest,Continuar como invitado
+dont Have An Accoun,Don’t Have An Account?,¿No tienes una cuenta?
+resend Code In,Resend Code in,Reenviar código en
+label Name,Name,Nombre
+label Phone,Phone,Teléfono
+field Email,email,correo electrónico
+label Email,Email,Correo electrónico
+what Have,What have we done with your help,¿Qué hemos hecho con tu ayuda?
+ten,ten,diez
+twenty,twenty,veinte
+manage,Manage all activities from our foundation,Gestionar todas las actividades de nuestra fundación
+vestibulum,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa.","Vestibulum ante ipsum primis en faucibus orci luctus et ultrices Posuere cubilia curae; Donec Velit Neque, Auctor Sit Amet Aliquam Vel, Ullamcorper Sit Amet Ligula. Curabitur Arcu Erat, Accumsan Id Imperdiet et, Porttitor en SEM. Praesent Sapien Massa."
+Add money details for,Add money details for,Agregar detalles de dinero para
+Language Information,Language Information,Información del idioma
+Automatic Add Money,Automatic Add Money,Automático Agregar dinero
+Manual Add Money,Manual Add Money,Manual Agregar dinero
+Automatic Add Money Edit,Automatic Add Money Edit,Automático agregar dinero editar
+Manual Add Money Edit,Manual Add Money Edit,Manual Agregar dinero editar
+Admin Profile,Admin Profile,Perfil de administración
+Password Change,Password Change,Cambio de contraseña
+Setup Notification,Setup Notification,Notificación de configuración
+Send Notification,Send Notification,Enviar notificación
+Server Information,Server Information,información del servidor
+Setup Category Type,Setup Category Type,Tipo de categoría de configuración
+All Ticket,All Ticket,Todo el boleto
+Pending Ticket,Pending Ticket,Boleto pendiente
+Setup FAQ,Setup FAQ,Preguntas frecuentes de configuración
+Active Ticket,Active Ticket,Boleto activo
+Solved Ticket,Solved Ticket,Boleto resuelto
+Support Chat,Support Chat,Chat de apoyo
+User Email Logs,User Email Logs,Registros de correo electrónico de usuario
+Useful Link Edit,Useful Link Edit,Línea útil editar
+Stripe Payment,Stripe Payment,Pago de rayas
+Manual Payment,Manual Payment,Pago manual
+Request Moneny,Request Moneny,Solicitar monenía
+Withdraw Log,Withdraw Log,Retirar el registro
+Money Exchange,Money Exchange,Cambio de dinero
+Support Tickets,Support Tickets,Boletos de apoyo
+Add New Ticket,Add New Ticket,Agregar nuevo boleto
+Conversation,Conversation,Conversación
+Gateway Api,Gateway Api,API de puerta de enlace
+Paid Invoice,Paid Invoice,Factura pagada
+Unpaid Invoice,Unpaid Invoice,Factura no remunerada
+Draft Invoice,Draft Invoice,Proyecto de factura
+Manual Money Out,Manual Money Out,Dinero manual
+All Link,All Link,Todo el enlace
+Closed Link,Closed Link,Enlace cerrado
+Active Link,Active Link,Enlace activo
+How It Work,How It Work,Como funciona
+Security Section,Security Section,Sección de seguridad
+User Details,User Details,Detalles de usuario
+error,error,error
+Something went wrong! Please try again.,Something went wrong! Please try again.,¡Algo salió mal! Inténtalo de nuevo.
+success,success,éxito
+Invoice Created Successful.,Invoice Created Successful.,Factura creada exitosa.
+Invalid Request!,Invalid Request!,¡Solicitud no válida!
+Invoice Updated Successful.,Invoice Updated Successful.,Factura actualizada exitosa.
+Invoice Save As Draft.,Invoice Save As Draft.,Factura de la factura como borrador.
+Invoice Published Successful.,Invoice Published Successful.,Factura publicada exitosa.
+Data Fetch Successful.,Data Fetch Successful.,Los datos obtienen exitosos.
+Payment Link Created Successful.,Payment Link Created Successful.,Enlace de pago creado exitoso.
+Payment Link Updated Successful.,Payment Link Updated Successful.,Enlace de pago actualizado exitoso.
+Status Change Successful.,Status Change Successful.,Cambio de estado exitoso.
+User Login,User Login,Inicio de sesión de usuario
+User Registration,User Registration,registro de usuario
+Proof Of Identity,Proof Of Identity,Prueba de identidad
+Invoice,Invoice,Factura
+Invoice Create,Invoice Create,Factura creación
+Payment Link Create,Payment Link Create,Enlace de pago Crear
+Invoice Preview,Invoice Preview,Vista previa de factura
+Invoice Share,Invoice Share,Participación de facturas
+Invoice Link,Invoice Link,Enlace de factura
+Money Out,Money Out,Apagarse
+Payment Links,Payment Links,Enlaces de pago
+Payment Link Edit,Payment Link Edit,Enlace de pago Editar
+Link Share,Link Share,Compartir en enlace
+Payment Link,Payment Link,Enlace de pago
+Withdraw Moneny,Withdraw Moneny,Retirar monenía
+Category Name,Category Name,nombre de la categoría
+Name | Code,Name | Code,Nombre | Código
+Type | Rate,Type | Rate,Tipo | Tasa
+Country,Country,País
+Add Web Journal,Add Web Journal,Agregar diario web
+Select Category,Select Category,selecciona una categoría
+View Payment Link,View Payment Link,Ver enlace de pago
+View Money Out,View Money Out,Ver dinero
+Update Rate,Update Rate,Frecuencia de actualización
+Question,Question,Pregunta
+Answer,Answer,Respuesta
+Money Out Details,Money Out Details,Detalles de Out Money
+Add Money Details,Add Money Details,Agregar detalles de dinero
+User Email,User Email,Correo electrónico de usuario
+Customer Name,Customer Name,Nombre del cliente
+Qty,Qty,Cantidad
+Total,Total,Total
+Due Date,Due Date,Fecha de vencimiento
+Collect Payment With Invoice,Collect Payment With Invoice,Cobrar el pago con factura
+Last Login,Last Login,Último acceso
+Select Type,Select Type,Seleccione tipo
+Balance Add,Balance Add,Balance Agregar
+subtract,subtract,sustraer
+Balance Subtract,Balance Subtract,Balance Restar
+Edit Event,Edit Event,Evento de edición
+Payment Required,Payment Required,pago requerido
+Too Many Requests,Too Many Requests,Demasiadas solicitudes
+Service Unavailable,Service Unavailable,Servicio No Disponible
+widget-title,widget-title,vituto de widget
+Categories,Categories,Categorías
+Description,Description,Descripción
+Unit price,Unit price,Precio unitario
+Subtotal,Subtotal,Total parcial
+Amount due,Amount due,Monto adeudado
+due,due,pendiente
+Pay with Debit & Credit Card,Pay with Debit & Credit Card,Pagar con tarjeta de débito y crédito
+Securely save my inforation for 1-click checkout,Securely save my inforation for 1-click checkout,Guardar de forma segura mi inforación para el pago de 1 clic
+Pay faster on,Pay faster on,Pagar más rápido
+and everywhere Link is accepted,and everywhere Link is accepted,y en todas partes el enlace es aceptado
+Pay,Pay,Pagar
+Total Transactions,Total Transactions,Transacciones totales
+Total Gateway,Total Gateway,Puerta de enlace total
+Address,Address,DIRECCIÓN
+Subject,Subject,Sujeto
+Explore,Explore,Explorar
+Download,Download,Descargar
+iOS,iOS,iOS
+Android,Android,Androide
+header-btn btn--base active,header-btn btn--base active,encabezado-btn btn-base activa
+header-btn header-custom-btn,header-btn header-custom-btn,encabezado-btn encabezado-custom-btn
+Log In,Log In,Acceso
+Register,Register,Registro
+Sellvialink,Sellvialink,Sellvialink
+Get It On,Get It On,Ponerlo
+Google Play,Google Play,Google Play
+Download On The,Download On The,Descargar en el
+Apple Store,Apple Store,tienda Apple
+Invoice number,Invoice number,Número de factura
+Date due,Date due,Fecha de vencimiento
+Already Have An Account?,Already Have An Account?,¿Ya tienes una cuenta?
+Verify Mail,Verify Mail,Verificar correo
+Send OTP,Send OTP,Enviar OTP
+Set New Password,Set New Password,Establecer una nueva contraseña
+Please Enter your new password and get login access on your Dashboard,Please Enter your new password and get login access on your Dashboard,Ingrese su nueva contraseña y obtenga acceso de inicio de sesión en su tablero
+Verify OTP,Verify OTP,Verificar OTP
+Login In,Login In,Iniciar sesión en
+Don,Don,Don
+user.register,user.register,usuario. Registrar
+By clicking Login you are agreeing with our,By clicking Login you are agreeing with our,"Al hacer clic en Iniciar sesión, está de acuerdo con nuestro"
+Terms of Service,Terms of Service,Términos de servicio
+Select Country,Select Country,Seleccionar país
+Terms Of Use & Privacy Policy,Terms Of Use & Privacy Policy,Términos de uso y política de privacidad
+login,login,acceso
+Your KYC information is verified,Your KYC information is verified,Su información de KYC está verificada
+Available Balance,Available Balance,Saldo disponible
+Sender Email,Sender Email,Correo electrónico del remitente
+Sender Card Number,Sender Card Number,Número de tarjeta de remitente
+Payments,Payments,Pagos
+Transactions,Transactions,Actas
+2FA Security,2FA Security,2FA SEGURIDAD
+Help Center,Help Center,Centro de ayuda
+How can we help you?,How can we help you?,como podemos ayudarte?
+Get Support,Get Support,Obtener apoyo
+Customer,Customer,Cliente
+Currency,Currency,Divisa
+Select One,Select One,Seleccione uno
+Items,Items,Elementos
+Quantity,Quantity,Cantidad
+Create Invoice,Create Invoice,Crear factura
+Preview,Preview,Avance
+left,left,izquierda
+right,right,bien
+Bill to,Bill to,Cobrar a
+Payment Now,Payment Now,Pago ahora
+Update Invoice,Update Invoice,Actualizar factura
+price,price,precio
+dynamic_price,dynamic_price,Dynamic_Price
+Invoice Logs,Invoice Logs,Registros de facturas
+Edit,Edit,Editar
+Show Invoice,Show Invoice,Factura de exhibición
+Delete,Delete,Borrar
+Close,Close,Cerca
+Save as Draft,Save as Draft,Guardar como borrador
+Publish Invoice,Publish Invoice,Publicar factura
+Share Invoice,Share Invoice,Factura de compartir
+Invoice Created Successfully,Invoice Created Successfully,Factura creada con éxito
+Copy link,Copy link,Copiar link
+Create Another Link,Create Another Link,Crea otro enlace
+Customers choose what to pay,Customers choose what to pay,Los clientes eligen qué pagar
+Products or subscriptions,Products or subscriptions,Productos o suscripciones
+Payment Page,Payment Page,Página de pago
+Set limits,Set limits,Pon límites
+Minimum amount,Minimum amount,Monto minimo
+Maximum amount,Maximum amount,Cantidad máxima
+Create New Link,Create New Link,Crea un nuevo enlace
+selected,selected,seleccionado
+label,label,etiqueta
+Image,Image,Imagen
+Update Link,Update Link,Enlace de actualización
+Create Link,Create Link,Crear enlace
+Payment Link Created Successfully,Payment Link Created Successfully,Enlace de pago creado con éxito
+Delete Profile,Delete Profile,Borrar perfil
+Download Google Authenticator App,Download Google Authenticator App,Descargar la aplicación Google Authenticator
+Google Authenticator is a product based authenticator by Google that executes two-venture confirmation administrations for verifying clients of any programming applications.,Google Authenticator is a product based authenticator by Google that executes two-venture confirmation administrations for verifying clients of any programming applications.,Google Authenticator es un autenticador basado en productos de Google que ejecuta administraciones de confirmación de dos ventas para verificar a los clientes de cualquier aplicación de programación.
+How to setup,How to setup,Como instalar
+Download For Android,Download For Android,Descargar para Android
+Download For IOS,Download For IOS,Descargar para iOS
+Attachments,Attachments,Archivos adjuntos
+Ticket ID,Ticket ID,Identificación de entradas
+Last Reply,Last Reply,Última respuesta
+My Widget,My Widget,Mi widget
+sub-title,sub-title,subtitular
+Balance,Balance,Balance
+Transaction Chart,Transaction Chart,Gráfico de transacción
+Transaction Log,Transaction Log,Registro de transacciones
+Showing,Showing,Demostración
+Installation,Installation,Instalación
+Project Installation Process is,Project Installation Process is,El proceso de instalación del proyecto es
+canceled,canceled,cancelado
+Failed!,Failed!,¡Fallido!
+Project Installation Server,Project Installation Server,Servidor de instalación de proyectos
+Requirements,Requirements,Requisitos
+Back,Back,Atrás
+Next,Next,Próximo
+Welcome,Welcome,Bienvenido
+To Project Installation Process,To Project Installation Process,Al proceso de instalación del proyecto
+"To continue with the installation process click on the start button. if you choose not to install this application, click on the cancel button. Thanks","To continue with the installation process click on the start button. if you choose not to install this application, click on the cancel button. Thanks","Para continuar con el proceso de instalación, haga clic en el botón Inicio. Si elige no instalar esta aplicación, haga clic en el botón Cancelar. Gracias"
+Start,Start,Comenzar
+Admin | Login,Admin | Login,Administrador | Acceso
+Enter your account email address or username,Enter your account email address or username,Ingrese la dirección de correo electrónico o nombre de usuario de su cuenta
+Send,Send,Enviar
+Add Language,Add Language,Agregar lenguaje
+button,button,botón
+language,language,idioma
+Add How It Work,Add How It Work,Agrega cómo funciona
+Add Socail Icon,Add Socail Icon,Agregar icono Socail
+Security Item,Security Item,Artículo de seguridad
+Add Service,Add Service,Agregar servicio
+Add Testimonial,Add Testimonial,Agregar testimonio
+Add FAQ,Add FAQ,Agregar preguntas frecuentes
+Add Faq Category,Add Faq Category,Agregar categoría de preguntas frecuentes
+Add Page,Add Page,Añadir página
+countryFlag,countryFlag,Bandera del país
+Admin Profile Image,Admin Profile Image,Imagen de perfil de administración
+Add Currency,Add Currency,Agregar moneda
+Country Flag,Country Flag,Bandera del país
+Add New Screen,Add New Screen,Agregar nueva pantalla
+Add New Permission,Add New Permission,Agregar nuevo permiso
+Assign Permission Page/Task,Assign Permission Page/Task,Asignar la página/tarea de permiso
+Edit Permission,Edit Permission,Editar permiso
+Add New Role,Add New Role,Agregar un nuevo rol
+Edit Role,Edit Role,Rol de edición
+Add New Category,Add New Category,Añadir nueva categoria
+Edit Category,Edit Category,Editar categoria
+Edit Currency,Edit Currency,Editar moneda
+Edit FAQ,Edit FAQ,Editar Preguntas frecuentes
+Edit Screen,Edit Screen,Pantalla de edición
+Update Extension,Update Extension,Extensión de actualización
+FAQ,FAQ,Preguntas más frecuentes
+Rejejct KYC,Rejejct KYC,REJEJCT KYC
+Send Test Mail,Send Test Mail,Enviar correo de prueba
+Global Setting for,Global Setting for,Escenario global para
+in bellow,in bellow,a la derecha
+Amount Limit,Amount Limit,Límite de cantidad
+Charge,Charge,Cargar
+Rate,Rate,Tasa
+Total Supported Currency,Total Supported Currency,Moneda total compatible
+Collect Data,Collect Data,Recolectar datos
+Field Types*,Field Types*,Tipos de campo*
+"This ticket is solved, you can","This ticket is solved, you can","Este boleto está resuelto, puedes"
+Pending Tickets,Pending Tickets,Boletos pendientes
+Active Tickets,Active Tickets,Boletos activos
+view-btn bg--info,view-btn bg--info,View-BTN BG-Info
+Solved Tickets,Solved Tickets,Boletos resueltos
+All Tickets,All Tickets,Todas las entradas
+view-btn bg--base,view-btn bg--base,View-btn bg-base
+Mark as Solved,Mark as Solved,Marca como se resuelve
+Support Details,Support Details,Detalles de apoyo
+Charges,Charges,Cargos
+Fixed Charge*,Fixed Charge*,Cargo fijo*
+Percent Charge*,Percent Charge*,Porcentaje de carga*
+Admin,Admin,Administración
+Layout Mode,Layout Mode,Modo de diseño
+Dark Mode,Dark Mode,Modo oscuro
+Topbar Color,Topbar Color,Color topbar
+Light Mode,Light Mode,Modo de luz
+Sidebar Color,Sidebar Color,Color de la barra lateral
+Min Sidebar Color,Min Sidebar Color,Min Color de la barra lateral
+Notification,Notification,Notificación
+Clear All,Clear All,Limpiar todo
+No new notification found!,No new notification found!,¡No se encontró una nueva notificación!
+Instructions,Instructions,Instrucciones
+View Faq,View Faq,Ver preguntas frecuentes
+Virtual Card Api,Virtual Card Api,API de tarjeta virtual
+Stripe API,Stripe API,API de rayas
+Secret Key*,Secret Key*,Llave secreta*
+Public Key*,Public Key*,Llave pública*
+Language Keywords of English,Language Keywords of English,Palabras clave del idioma del inglés
+admin.components.page-title,admin.components.page-title,admin.components.page-title
+USER,USER,USUARIO
+AGENT,AGENT,AGENTE
+MERCHANT,MERCHANT,COMERCIANTE
+Money Out Logs,Money Out Logs,Money Out Registros
+User Type,User Type,Tipo de usuario
+Request Amount,Request Amount,Cantidad de la solicitud
+Update Gateway,Update Gateway,Actualización de la puerta de enlace
+Add Automatic Gateway (Add Money),Add Automatic Gateway (Add Money),Agregar puerta de enlace automática (agregar dinero)
+gatewayImage,gatewayImage,gatewayimage
+Gateway Image,Gateway Image,Imagen de puerta de enlace
+Genarate Fields,Genarate Fields,Campos de genarato
+Save & Change,Save & Change,Guardar cambios
+State,State,Estado
+City,City,Ciudad
+Push Notification,Push Notification,Notificación de inserción
+Browser Push Notification Configuration,Browser Push Notification Configuration,Configuración de notificación de push del navegador
+Broadcasting/ Internal Notification Configuration,Broadcasting/ Internal Notification Configuration,Configuración de transmisión/ notificación interna
+Latest Notifications,Latest Notifications,Últimas notificaciones
+Version,Version,Versión
+App Environment,App Environment,Entorno de aplicaciones
+App Debug,App Debug,Depurar la aplicación
+App Mode,App Mode,Modo de aplicación
+Database Connection,Database Connection,Conexión de base de datos
+Database Host,Database Host,Host de base de datos
+Database Port,Database Port,Puerto de base de datos
+Database Name,Database Name,Nombre de la base de datos
+Database Username,Database Username,Nombre de usuario de la base de datos
+PHP Version,PHP Version,Versión php
+Laravel Version,Laravel Version,Versión de Laravel
+Server Software,Server Software,Software de servidor
+Server IP Address,Server IP Address,Dirección IP del servidor
+Server Protocol,Server Protocol,Protocolo de servidor
+Timezone,Timezone,Zona horaria
+Email Send Method*,Email Send Method*,Método de envío de correo electrónico*
+Setup KYC,Setup KYC,Configurar KYC
+KYC Data Form,KYC Data Form,Formulario de datos de KYC
+Add Category,Add Category,añadir categoría
+Edit Faq Category,Edit Faq Category,EDITAR CATEGORA DE FAQ
+Add Social Icon,Add Social Icon,Agregar icono social
+Edit Solution,Edit Solution,Solución de edición
+Add Item,Add Item,Añadir artículo
+Edit Security Section,Edit Security Section,Editar sección de seguridad
+View Security,View Security,Ver seguridad
+Edit Service,Edit Service,Editar servicio
+View Service,View Service,Ver servicio
+Edit Testimonial,Edit Testimonial,Editar testimonio
+View Testimonial,View Testimonial,Ver testimonio
+Setup SMS,Setup SMS,Configurar SMS
+SMS Method,SMS Method,Método SMS
+Support Ticket,Support Ticket,Boleto de apoyo
+Fees & Charges,Fees & Charges,Tarifas y cargos
+User Overview,User Overview,Descripción general del usuario
+Information of User,Information of User,Información del usuario
+Phone Number,Phone Number,Número de teléfono
+Add/Subtract Balance,Add/Subtract Balance,Balance de suma/resta
+wallet,wallet,billetera
+User Wallet,User Wallet,Billetera del usuario
+Edit KYC,Edit KYC,Editar kyc
+Information of Logs,Information of Logs,Información de los registros
+File not found!,File not found!,¡Archivo no encontrado!
+KYC Information not submitted yet,KYC Information not submitted yet,Información de KYC aún no se ha enviado
+User Login Logs,User Login Logs,Registros de inicio de sesión de usuario
+Activation Settings,Activation Settings,Configuración de activación
+Search Engine Optimization (SEO),Search Engine Optimization (SEO),Optimización de motores de búsqueda (SEO)
+401 - Unauthorized,401 - Unauthorized,401 - no autorizado
+Unauthorized...!,Unauthorized...!,No autorizado...!
+Back To Home,Back To Home,De vuelta a casa
+403 - Forbidden,403 - Forbidden,403 - Prohibido
+Forbidden...!,Forbidden...!,Prohibido...!
+404 - Page Not Found,404 - Page Not Found,404 Pagina no encontrada
+Page Not Found...!,Page Not Found...!,Página no encontrada...!
+419 - Page Expired,419 - Page Expired,419 - Página expirada
+Page Expired...!,Page Expired...!,Página expirada ...!
+500 - Server Error,500 - Server Error,500 - Error del servidor
+Server Error...!,Server Error...!,Error del Servidor...!
+Two Factor Authorization,Two Factor Authorization,Autorización de dos factores
+Please enter your authorization code to access dashboard,Please enter your authorization code to access dashboard,Ingrese su código de autorización para acceder al tablero
+Back to,Back to,De regreso
+KYC Information,KYC Information,Información de KYC
+title text--warning,title text--warning,Texto del título-Advertencia
+Your KYC information is rejected.,Your KYC information is rejected.,Su información de KYC es rechazada.
+Balance Update From Admin,Balance Update From Admin,Actualización de equilibrio desde Admin
+No Record Found!,No Record Found!,¡Ningún record fue encontrado!
+Disable,Disable,Desactivar
+t login in your account.,t login in your account.,t Inicie sesión en su cuenta.
+Enable,Enable,Permitir
+d-block text-center,d-block text-center,D-Bloque D-Center
+Payment Gateway,Payment Gateway,Pasarela
+last,last,último
+Payable Amount,Payable Amount,Cantidad a pagar
+Money Out Log,Money Out Log,Money Out Log
+Services,Services,Servicios
+Web Journal,Web Journal,Diario web
+Contact Us,Contact Us,Contáctenos
+Don't Have An Account,Don't Have An Account,No tengo una cuenta
+Enter Password,Enter Password,Introducir la contraseña
+I have agreed with,I have agreed with,He estado de acuerdo con
+Identity Verification,Identity Verification,Verificación de identidad
+Collect Payment With Link,Collect Payment With Link,Cobrar el pago con enlace
+Total Payment Link,Total Payment Link,Enlace de pago total
+Total Invoice,Total Invoice,Total de la factura
+"Payment Link, Invoice & Low Payment","Payment Link, Invoice & Low Payment","Enlace de pago, factura y bajo pago"
+Card Payment,Card Payment,Pago con tarjeta
+Payment Method,Payment Method,Método de pago
+Sender Full Name,Sender Full Name,Nombre completo del remitente
